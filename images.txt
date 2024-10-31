@@ -1,1 +1,1 @@
-pull ansible/ansible:centos7
+ansible/ansible:centos7
