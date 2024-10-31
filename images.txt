@@ -1,1 +1,1 @@
-docker.io/ansible/ansible
+pull ansible/ansible:centos7
