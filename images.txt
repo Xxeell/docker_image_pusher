@@ -1,1 +1,1 @@
-docker.io/mongo:7.0.22-jammy
+docker.io/mongo:7.0.2-jammy --platform linux/arm64
