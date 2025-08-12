@@ -1,3 +1,2 @@
---platform linux/amd64 docker.io/mongo:7.0.20
---platform linux/amd64 emqx/emqx:5.3.2
---platform linux/amd64 powerjob/powerjob-server:4.3.9
+# --platform linux/amd64 docker.io/mongo:7.0.20
+--platform linux/amd64  mongo:8.0.12
