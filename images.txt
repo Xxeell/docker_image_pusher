@@ -1,3 +1,5 @@
 # --platform linux/amd64 docker.io/mongo:7.0.20
 --platform linux/amd64  mongo:8.0.12
 --platform linux/amd64 redis:latest
+--platform linux/amd64 powerjob/powerjob-worker-samples:latest
+--platform linux/amd64 powerjob/powerjob-worker-samples:latest
