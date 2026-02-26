@@ -1,2 +1,2 @@
 # --platform linux/amd64 docker.io/mongo:7.0.20
---platform linux/amd64 elasticsearch:7.12.22
+--platform linux/amd64 docker.io/elasticsearch:7.17.22
