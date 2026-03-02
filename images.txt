@@ -1,2 +1,2 @@
 # --platform linux/amd64 docker.io/mongo:7.0.20
---platform linux/amd64 apache/skywalking-banyandb:0.6.0 
+--platform linux/amd64 apache/skywalking-banyandb:0.5.0 
