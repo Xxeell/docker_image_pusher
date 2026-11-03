@@ -1,2 +1,2 @@
---platform linux/amd64 docker.io/mongo:8.0.23
+--platform linux/amd64 docker.io/rabbitmq:3.13.8-management
 # --platform linux/amd64 quay.io/martinhelmich/prometheus-nginxlog-exporter
